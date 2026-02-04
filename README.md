@@ -6,7 +6,7 @@ Ce projet démontre l'utilisation de **FunctionGemma** (modèle Google optimisé
 
 - Python 3.10+
 - [llama.cpp](https://github.com/ggerganov/llama.cpp) compilé
-- Le modèle quantisé `functiongemma-270m-it-Q4_K_M.gguf`
+- Le modèle quantisé [functiongemma-270m-it-Q4_K_M.gguf](https://huggingface.co/unsloth/functiongemma-270m-it-GGUF)
 
 ### Installation des dépendances Python
 
